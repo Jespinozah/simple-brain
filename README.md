@@ -1,1 +1,2 @@
-# neural-network-author-classifier
+# neural-network
+## brain js proof of concept
